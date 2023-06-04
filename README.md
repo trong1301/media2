@@ -20,3 +20,7 @@ IN refreshData() funtion:
      
 IN loadDataFromTaglib() funtion:
     getMediaData() be invoke from class THEN save metadata into metaDataList vector
+    Add list of media to playlist m_listMediaContent
+    Add list of mediadata to data model list m_mediaDataModelList
+
+IN invokeGenerateMediaMetadataByTaglib() funtion:
